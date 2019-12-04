@@ -1,7 +1,9 @@
 # Risk-Analytics
 Home Credit Loan Default Prediction
 Home Credit Default Risk
-This Project is an extensive study of Feature Tools which is heavily drawn from the featuretools documentation and the featuretools Automated Manual Comparison GitHub repository by ##Will Koehrsen.
+This Project is an extensive study of Feature Tools which is heavily drawn from the featuretools documentation and the featuretools Automated Manual Comparison GitHub repository by Will Koehrsen. 
+
+https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
 
 The Following Report contains detailed description of the entire project and all the steps taken in the codes.
 
